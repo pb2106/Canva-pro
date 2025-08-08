@@ -1,4 +1,7 @@
-# 🖼️ Canva Pro
+# Canva Pro
+<p align="center">
+  <img src="logo1.png" alt="Logo" width="500">
+</p>
 
 "**Canva Pro VibeCoded by Naegleria**"
 
@@ -40,4 +43,38 @@ A Chrome Extension that allows you to click on any image in Canva and copy its *
 ---
 
 ## 🔧 Project Structure
+```bash
+/CanvaProAutoCopier/
+│
+├── manifest.json # Chrome extension manifest (v3)
+├── popup.html # Extension popup UI
+├── popup.js # Handles toggle button
+├── content.js # Core image detection and clipboard logic
+└── icon.png # Extension icon
+```
+
+---
+
+## 🕹️ Usage
+
+1. Click the extension icon.
+2. Toggle the switch to **ON**
+3. Go to any site (e.g., Canva), and click an image.
+4. If it ends with `wm_s.png`, it will auto-copy the `tl.png` version to clipboard.
+5. Paste anywhere (Ctrl+V) in supported apps (Discord, MS Paint, etc.)
+
+---
+
+## 🙏 Credits
+
+- 💻 Coded by **Naegleria**
+- 📷 Image clipboard magic powered by `canvas.toBlob()` and `ClipboardItem`
+
+---
+
+## 🛡️ Disclaimer
+
+This extension is meant for **educational** and **personal automation** only. Do not use to violate any platform's terms of service.
+
+---
 
