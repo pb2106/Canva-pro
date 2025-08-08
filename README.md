@@ -3,8 +3,6 @@
   <img src="logo1.png" alt="Logo" width="500">
 </p>
 
-"**Canva Pro VibeCoded by Naegleria**"
-
 A Chrome Extension that allows you to click on any image in Canva and copy its **unwatermarked (tl.png)** version directly to your clipboard with a single click.
 > ⚠️ **Disclaimer**:  
 > This extension does **not** bypass Canva Pro features such as access to premium templates or fonts. It only assists in copying pro images directly without watermark. Use responsibly and respect Canva's terms of service.
@@ -37,4 +35,4 @@ A Chrome Extension that allows you to click on any image in Canva and copy its *
 This extension is meant for **educational** and **personal automation** only. Do not use to violate any platform's terms of service.
 
 ---
-
+"**Canva Pro VibeCoded by Naegleria**"
