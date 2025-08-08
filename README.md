@@ -1,6 +1,6 @@
 # Canva Pro
 <p align="center">
-  <img src="can.png" alt="Logo" width="500">
+  <img src="logo1.png" alt="Logo" width="500">
 </p>
 
 "**Canva Pro VibeCoded by Naegleria**"
