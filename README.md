@@ -26,10 +26,9 @@ A Chrome Extension that allows you to click on any image in Canva and copy its *
 
 ## 🕹️ Usage
 
-1. Click the extension icon.
-2. Go to any Canva and start a project and add an pro image to your project.
-3. Click on the pro image in your workspace.
-4. Paste anywhere (Ctrl+V) in supported apps (Discord, MS Paint, etc.) or in canva workspace
+1. Go to any Canva and start a project and add an pro image to your project.
+2. Click on the pro image in your workspace.
+3. Paste anywhere (Ctrl+V) in supported apps (Discord, MS Paint, etc.) or in canva workspace
 
 ---
 
