@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Canavack",
+  "version": "1.0",
+  "description": "Click or right-click any image to copy it.",
+  "permissions": [
+    "storage",
+    "tabs",
+    "clipboardWrite",
+    "scripting",
+    "activeTab",
+    "contextMenus"
+  ],
+  "host_permissions": [
+    "*://*.canva.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "logo.png"
+    }
+  },
+  "icons": {
+    "16": "logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.canva.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["logo.png"],
+      "matches": ["*://*.canva.com/*"]
+    }
+  ]
+}
