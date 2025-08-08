@@ -29,7 +29,16 @@ A Chrome Extension that allows you to click on any image in Canva and copy its *
 3. Paste anywhere (Ctrl+V) in supported apps (Discord, MS Paint, etc.) or in canva workspace
 
 ---
+## 🚧 Future Updates
 
+- Support for more image types and formats
+- Improved handling of complex image layers
+- Optional auto-download feature
+- Compatibility with other design platforms
+- UI enhancements and animation feedback
+- Settings panel for user preferences
+
+---
 ## 🛡️ Disclaimer
 
 This extension is meant for **educational** and **personal automation** only. Do not use to violate any platform's terms of service.
